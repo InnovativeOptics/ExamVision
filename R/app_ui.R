@@ -36,7 +36,7 @@ app_ui <- function(request) {
                          column(12,
                                 align = 'center',
                                 a(href = "https://ExamVision.com/",
-                               img(src = "icons/ExamVision_Logo.jpg", width = "200px"))
+                               img(src = "icons/ExamVision_Logo.png", width = "100px"), target = "_blank")
 
                          ) ,
  #                        column(6, align= 'right',
