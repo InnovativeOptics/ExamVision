@@ -5,7 +5,7 @@ account: inva
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 15357145
-bundleId: 10866341
+bundleId: 10869200
 url: https://inva.shinyapps.io/ExamVision/
 version: 1
 asMultiple: FALSE
